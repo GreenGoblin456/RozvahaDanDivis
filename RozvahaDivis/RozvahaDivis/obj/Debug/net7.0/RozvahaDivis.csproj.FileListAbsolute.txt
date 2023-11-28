@@ -1,0 +1,14 @@
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\bin\Debug\net7.0\RozvahaDivis.exe
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\bin\Debug\net7.0\RozvahaDivis.deps.json
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\bin\Debug\net7.0\RozvahaDivis.runtimeconfig.json
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\bin\Debug\net7.0\RozvahaDivis.dll
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\bin\Debug\net7.0\RozvahaDivis.pdb
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.AssemblyInfoInputs.cache
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.AssemblyInfo.cs
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.csproj.CoreCompileInputs.cache
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.dll
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\refint\RozvahaDivis.dll
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.pdb
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\RozvahaDivis.genruntimeconfig.cache
+C:\Users\123da\Desktop\RozvahaDivis\RozvahaDivis\obj\Debug\net7.0\ref\RozvahaDivis.dll
